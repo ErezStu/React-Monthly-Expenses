@@ -10,6 +10,6 @@ Run the following commands on your computer(Mac - on the terminal, Windows - on 
 
 If you don't have react/cli globally on your computer, run the command: "npm i -g react-cli react" - run it wherever you want.
 
-Run the command: "npm i" on each folder.
+Run the command: "npm i".
 
-Run "npm start" and choose yes to a diffrent address client when it asks you.
+Run "npm start".
